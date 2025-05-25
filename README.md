@@ -1,6 +1,13 @@
 
-## 💫 HI! 👋, I am Oliwier
+## 💫 HI! 👋, I'm Oliwier
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/mwBuda7h) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@policjant) 
+
+## 🤩 Abt me 
+⨯ From: 🇵🇱
+⨯ Name: Oliwier
+⨯ Interesting: Coder,Plugin maker and web designer
+⨯ Cooperation: interesyfejmik@gmail.com
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FejmikDev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
