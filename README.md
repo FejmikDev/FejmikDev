@@ -11,6 +11,7 @@
 
 ⨯ Cooperation: interesyfejmik@gmail.com
 
+scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fview%2F120314&psig=AOvVaw1sJrikN17L_8a6XRegP9SQ&ust=1748274096634000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqGAoTCJCf1cb6vo0DFQAAAAAdAAAAABDCAg"
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FejmikDev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
