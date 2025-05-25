@@ -37,6 +37,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=FejmikDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![image alt](https://github.com/FejmikDev/FejmikDev/blob/d05a813cc21260cbef2df0a7715c8c6c58683d6b/84d79f587caeee69caf306386ec3527d_w200.gif)
+![image alt](https://github.com/FejmikDev/FejmikDev/blob/0246503f53e156f3e8397cb082e9fb8b9a5ab416/images.steamusercontent.gif)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
