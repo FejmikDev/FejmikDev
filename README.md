@@ -4,8 +4,11 @@
 
 ## 🤩 Abt me 
 ⨯ From: 🇵🇱
+
 ⨯ Name: Oliwier
+
 ⨯ Interesting: Coder,Plugin maker and web designer
+
 ⨯ Cooperation: interesyfejmik@gmail.com
 
 
