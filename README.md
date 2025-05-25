@@ -9,7 +9,7 @@
 
 ⨯ Interesting: Coder,Plugin maker and web designer
 
-⨯ Cooperation: interesyfejmik@gmail.com
+⨯ Cooperation: dm me
 
 ![image alt](https://github.com/FejmikDev/FejmikDev/blob/621525c286323a486957dc88fd77f48f91c2a8b6/icegif-179.gif)
 
